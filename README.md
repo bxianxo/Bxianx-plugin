@@ -20,7 +20,7 @@
 
 ## 使用说明
 
-## 使用提示：本插件内较多功能正在优化和修复，例如106短信祝福功能正在优化就没写在帮助里，控制台可能会提示为填写API签名无须在意。如有问题可删除对应报错js或卸载插件
+## 使用提示：本插件正在重构请勿拉取安装
 
 ### 安装
 
@@ -28,7 +28,7 @@
 
 使用[Github仓库](https://github.com/bxianxo/bxianx-plugin)
 ```bash
-git clone --depth=1 https://github.com/yoimiya-kokomi/miao-plugin.git ./plugins/miao-plugin/
+git clone --depth=1 https://github.com/bxianxo/bxianx-plugin.git ./plugins/Bxianx-plugin/
 ```
 使用[ghfast](https://ghfast.top)提供的代理服务下载不羡仙插件
 
@@ -38,7 +38,7 @@ git clone --depth=1 https://ghfast.top/https://github.com/bxianxo/bxianx-plugin.
 
 使用[Gitee仓库]((https://gitee.com/bxianx/bxianx-plugin))【更新可能会延迟】
 ```bash
-git clone --depth=1 https://gitee.com/yoimiya-kokomi/miao-plugin.git ./plugins/miao-plugin/
+git clone --depth=1 https://gitee.com/bxianx/Bxianx-plugin.git . /plugins/Bxianx-plugin/
 ```
 
 ### 安装依赖
